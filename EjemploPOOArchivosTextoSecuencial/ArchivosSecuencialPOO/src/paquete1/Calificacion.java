@@ -14,7 +14,6 @@ public class Calificacion{
     public Calificacion(double n, String nombre) {
         nota = n;
         nombreMateria = nombre;
-        
     }
 
     public void establecerNota(double n) {
