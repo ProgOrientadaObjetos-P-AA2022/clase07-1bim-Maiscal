@@ -67,7 +67,7 @@ public class Escritura {
         l.establecerHospital();
         listaHospital = l.obtenerHospital();
     }
-
+    
     public String obtenerNombreArchivo(){
         return nombreArchivo;
     }

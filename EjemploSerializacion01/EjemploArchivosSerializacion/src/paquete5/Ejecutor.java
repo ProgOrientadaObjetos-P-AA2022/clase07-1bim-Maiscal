@@ -12,7 +12,7 @@ public class Ejecutor {
         
     public static void main(String[] args) {
         
-        String nombreArchivo = "hospital.data";
+        String nombreArchivo = "data/hospital.data";
         
         Hospital h1 = new Hospital("Cuz azul", 500, 900);
         Hospital h2 = new Hospital("Isidro", 60, 500);
