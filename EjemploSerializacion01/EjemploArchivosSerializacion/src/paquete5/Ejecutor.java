@@ -14,9 +14,9 @@ public class Ejecutor {
         
         String nombreArchivo = "hospital.data";
         
-        Hospital h1 = new Hospital("Tara Hernandez", 500, 900);
-        Hospital h2 = new Hospital("Gregory Walsh", 60, 500);
-        Hospital h3 = new Hospital("Kevin Page", 90, 2500);
+        Hospital h1 = new Hospital("Cuz azul", 500, 900);
+        Hospital h2 = new Hospital("Isidro", 60, 500);
+        Hospital h3 = new Hospital("Paltas", 90, 2500);
 
         Escritura archivo = new Escritura(nombreArchivo);
         
