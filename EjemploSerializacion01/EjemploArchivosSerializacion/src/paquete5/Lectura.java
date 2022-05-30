@@ -79,7 +79,7 @@ public class Lectura {
 
     @Override
     public String toString() {
-        String cadena = "Lista de Profesores\n";
+        String cadena = "Lista de Hospitales\n";
         for (int i = 0; i < obtenerHospital().size(); i++) {
             Hospital p = obtenerHospital().get(i);
             cadena = String.format("%s(%d) %s - %d - %.2f\n", cadena,
